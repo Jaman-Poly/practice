@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+			<div class="col-md-5">
+				<center><img src="https://s597sas.storage.yandex.net/rdisk/67ad30db5121553007cedaaec7b08e6e86ee08b3cd9399fe113cbce5591938c4/5e4d2c79/UZADYRcZZi3viWtdUigK9-K2zQV3niU7KHufPRrJJ4ROKosCWq4JMZNLl4iK__FYBgP9MobLqLiwBvY6oI_31A==?uid=319398661&filename=%D1%84%D0%BE%D1%82%D0%BE.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=319398661&fsize=410324&hid=bcf5647a73c9de73ad1d9cfb76507c57&media_type=image&tknv=v2&etag=8f8c8de1244ba7a5d569ea600edb8219&rtoken=DcxebH1EUkBm&force_default=yes&ycrid=na-04823f3452b6a0f883ccdb70b10f068b-downloader14h&ts=59eed13d95040&s=979d6a6081e75c0c25efc78d8eb7f9686a724fc965febde79cb486d94a129bd1&pb=U2FsdGVkX198ugMFf9aJFDZslzXGXm0t-60ubbf3UMcOge7QvvUESNYDMIaFaHxdVZiZiGoRQJbKrlydqkeh4RbTCpJIo_nztIzNYl2N2Ww" style="width: 60%"></center>
+				<br>
+            </div> <!--  div.col-md-5 -->
+
+
+            <div class="col-md-7">
+            	<h4>Смирнов Сергей Алексеевич</h4>
+    
+            	<p>
+            		Родился в 17 августа 1914 года в Ленинградской области в городе Тихвин. На фронт ушёл вместе с тремя своими братьями. Четверо братьев были одним экипажем танка Т-34. Мой прадед был старшиной и командиром танкового экипажа, кровное родство со своими подчинёнными заставляло его действовать быстрее и рассудительнее, чем когда-либо.
+                  <center> <img src="https://s73myt.storage.yandex.net/rdisk/62085b2248c4c19f7020a58b93961981dabb05316d4a8e7b8c67d6a44beb5543/5e4d2cb1/UZADYRcZZi3viWtdUigK95olR-OE2oHX1uRL_QOfZMxxw3rEjpkuVOM0OKj4owS0k0TauU5jJt5jC96Lz3Uynw==?uid=319398661&filename=%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%201.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=319398661&fsize=665385&hid=91e6d5934402c5c81be88123dd280a1c&media_type=image&tknv=v2&etag=c258677725ca1c5c2065711dd2efda18&rtoken=5kbxJAMzUOuq&force_default=yes&ycrid=na-2ca3ac387300029a0608b874c2f3223c-downloader14h&ts=59eed172fce40&s=53a1e20fb86b89cac31419305f2cc37c0228fa6d8ea286e5c52005dac05b8419&pb=U2FsdGVkX19prLfFS6X8DiJrk7P8WfZTT8xzoISnUPSv_LgSxLeoUF9eeQc_qzKKeVQ-z8VH6rpbtgPARlKbHakR1Uz18QtsW_tFwYZi_ZU" style="width: 60%"></center>
+                  Он и его команда были награждены различными Орденами и медалями, одна из них - «За оборону Сталинграда»
+                  <p>Не давая врагу ступить на родные земли, он героически сражался со своими братьями бок о бок. Благодаря рассудительности и отваге моего прадеда, он и его братья вернулись с войны невредимыми. В Польше в одном из сражений танк подорвали - но моего прадеда не смутило и это, и он смог найти коня с телегой, чтобы довезти раненых братьев до госпиталя. За его волевой характер его любили и уважали все братья.
+                     <center><img src="https://s271iva.storage.yandex.net/rdisk/7147a7933ee1e5d3dbb0c3f36f8c65b17af4eea66173f56c90b9c05da2eb7b93/5e4d2cb6/UZADYRcZZi3viWtdUigK9236wfEpBYxhvMaRiTEufpcJV_AsLN1FlO71Y8MWHrAbghoG_MxJJD2sCYNDEnD3-Q==?uid=319398661&filename=%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%202.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=319398661&fsize=818612&hid=f22135c5c8f138c3e8b4596894c2f70f&media_type=image&tknv=v2&etag=a16d817ae663dd9185095583474c5c4f&rtoken=QVyHNtOj9b0L&force_default=yes&ycrid=na-421d097bb4b91b621188343f1308022e-downloader14h&ts=59eed177c1980&s=927d99f281118f3e6efbe9c2bc02f431d0c185346744881ad11756f180548545&pb=U2FsdGVkX19vpvDDbfaFO6G5VXiV6DLGt559YsvazW18lb2UNlk7AYO2hA-01WxZv83BvyHLTboFS-ljjXj9_JGpo-_ZkBPqaG-v6W51Zl4" style="width: 60%"></center>
+                   <p> Умер 18 июля 1988 года, всем сердцем обожая своих восьмерых детей и (на тот момент) двенадцатерых внуков и внучат.
+                </p>
+              <p>Я горжусь своим дедушкой и его подвигами, пройдя две войны, он смог воспитать прекрасных детей, которых я люблю всей душой</p>
+            </div> <!--  div.col-md-7 -->
+        </div> <!-- div.row -->
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <!--Авторка статьи: Жаман Полина-->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html><html>...</html>
